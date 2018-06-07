@@ -4,6 +4,10 @@ if (!sessionStorage.bannerClosed) {
 } else {
   $('.privacy-banner').css('display', 'none');
 }
+$('.privacy-banner button').click(function() {
+  $('.privacy-banner').css('display', 'none');
+  sessionStorage.bannerClosed = 'true';
+});
 $('.banner-accept').click(function() {
   $('.privacy-banner').css('display', 'none');
   sessionStorage.bannerClosed = 'true';
