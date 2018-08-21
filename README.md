@@ -2,7 +2,7 @@
 
   		  
 ## Tutorial		  
-For detailed instruction's, view Solodev's [GDPR_CONSENT_NAME](GDPR_CONSENT_LINK) article.
+For detailed instruction's, view Solodev's [GDPR and Informed Consent Cookies Bar](https://www.solodev.com/blog/web-design/gdpr-and-informed-consent-cookies-bar.stml) article.
  
 ## Demo
   		  
